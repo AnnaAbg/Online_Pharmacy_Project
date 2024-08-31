@@ -31,7 +31,7 @@ For generate allure report use the command:
 To get a clear report use the following command before running test
 
 - `mvn clean`
--
+
 ####
 ## Tools Used:
 * [TestNG](https://mvnrepository.com/artifact/org.testng/testng)
