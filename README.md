@@ -43,6 +43,6 @@ To get a clear report use the following command before running test
 * [ASHot](https://mvnrepository.com/artifact/ru.yandex.qatools.ashot/ashot)
 
 ### "Аптека для Бережливых" Project Tests Allure Screenshots
-![Allure_Overview](https://github.com/AnnaAbg/QAA_Java_Practicum/assets/106620445/60225a4a-64da-4d5d-a4d1-86de5e868b5b)
+![Allure_Overview](https://github.com/user-attachments/assets/fa46c27a-814d-40ae-a18d-241a27206801)
 
 
